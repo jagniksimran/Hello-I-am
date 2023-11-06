@@ -1,14 +1,14 @@
 "Welcome to Hello, I Am...",null
 "This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community.",null
 "To play, you'll be shown a prompt.This prompt will be one that you're going to fill in the blank or complete the sentence. ",PromptField
-Each of these prompts will have constraints--kind of like MadLibs. ,Constraint
-You'll type in the text field your response to the prompt.,InputField
-Don't forget that the prompt is both character-limited and word-count limited.,CharacterLimit
-Each gameplay session will have a maximum number of prompts to which you'll respond.,QuestionNumber
+"Each of these prompts will have constraints--kind of like MadLibs." ,Constraint
+"You'll type in the text field your response to the prompt.",InputField
+"Don't forget that the prompt is both character-limited and word-count limited. ",CharacterLimit
+"Each gameplay session will have a maximum number of prompts to which you'll respond.",QuestionNumber
 "This is not a time-based game so to speak, but you cannot take longer than 5 minutes to complete the exercise.",null
-The game music volume will get louder and it will give you a warning when the time is about to run out.,null
+"The game music volume will get louder and it will give you a warning when the time is about to run out.",null
 "Whatever you type and enter will be processed to provide you with meaningful feedback. But understand if you do not complete the exercise, your feedback will not be very valuable to you. ",null
-It's encouraged to answer all the questions within the time alloted.,null
-This isn't about getting right and wrong answers or answering what you believe the company wants to see. ,null
+"It's encouraged to answer all the questions within the time alloted. ",null
+"This isn't about getting right and wrong answers or answering what you believe the company wants to see. "",null
 "This might be hard to believe, but no one but you will know the answers you have typed. Everything in this game is anonymous.",null
-Click BEGIN once you're ready to start. This cannot be undone. ,BeginButton
+"Click BEGIN once you're ready to start. This cannot be undone. ",BeginButton
