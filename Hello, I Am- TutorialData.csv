@@ -1,5 +1,5 @@
 "Welcome to Hello, I Am... ",null
-"This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community.",null
+"This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community. ",null
 "To play, you'll be shown a prompt.This prompt will be one that you're going to fill in the blank or complete the sentence. ",PromptField
 "Each of these prompts will have constraints--kind of like MadLibs. ",Constraint
 "You'll type in the text field your response to the prompt. ",InputField
