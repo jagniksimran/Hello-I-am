@@ -1,0 +1,11 @@
+content_type,ID,displayed_content,next,state_change
+Instruction,inst00,instruction 0,Inst01,null
+Instruction,Inst01,Instruction 1,Inst02,null
+Instruction,Inst02,Instruction 2,inst03,null
+Instruction,inst03,Instruction 3,mc00,null
+mulitple_choice,mc00,Select your management style,fi00,null
+fill_in,fi00,fill in the blank,fi01,null
+fill_in,fi01,fill in the blank,inst04,null
+Instruction,inst04,Instruction 5,fi02,null
+fill_in,fi02,fill in the blank,result,null
+result_page,,,,
