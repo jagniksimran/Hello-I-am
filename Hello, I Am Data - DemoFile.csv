@@ -1,4 +1,3 @@
-content_type,ID,displayed_content,next,state_change
 Instruction,inst00,instruction 0,inst01,null
 Instruction,inst01,Instruction 1,inst02,null
 Instruction,inst02,Instruction 2,inst03,null
