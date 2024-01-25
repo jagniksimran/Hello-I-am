@@ -1,7 +1,8 @@
 Instruction,inst00,instruction 0,inst01,null
 Instruction,inst01,Instruction 1,inst02,null
 Instruction,inst02,Instruction 2,inst03,null
-Instruction,inst03,Instruction 3,mc00,null
+Instruction,inst03,Instruction 3,inst04,null
+Instruction,inst04,Instruction 4,mc00,null
 mulitple_choice,mc00,Select your management style,fi00,null
 fill_in,fi00,fill in the blank,fi01,null
 fill_in,fi01,fill in the blank,inst04,null
