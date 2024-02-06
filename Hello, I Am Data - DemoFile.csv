@@ -1,4 +1,3 @@
-ID,content_type,displayed_content,next,state_change
 inst00,Instruction,"Welcome to Hello, I Am...",inst01,null
 inst01,Instruction,"This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community.",inst02,null
 inst02,Instruction,"To play, you'll be shown a prompt.This prompt will be one that you're going to select an answer choice or fill in the blank to complete the sentence. ",inst03,null
