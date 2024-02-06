@@ -1,11 +1,12 @@
-Instruction,inst00,instruction 0,inst01,null
-Instruction,inst01,Instruction 1,inst02,null
-Instruction,inst02,Instruction 2,inst03,null
-Instruction,inst03,Instruction 3,inst04,null
-Instruction,inst04,Instruction 4,mc00,null
-mulitple_choice,mc00,Select your management style,fi00,null
-fill_in,fi00,fill in the blank,fi01,null
-fill_in,fi01,fill in the blank,inst04,null
-Instruction,inst04,Instruction 5,fi02,null
-fill_in,fi02,fill in the blank,result,null
-result_page,,,,
+ID,content_type,displayed_content,next,state_change
+inst00,Instruction,"Welcome to Hello, I Am...",inst01,null
+inst01,Instruction,"This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community.",inst02,null
+inst02,Instruction,"To play, you'll be shown a prompt.This prompt will be one that you're going to select an answer choice or fill in the blank to complete the sentence. ",inst03,null
+inst03,Instruction,"Observe the horse’s behavior. The horse slowly stops pacing and begins to approach you, sniffing cautiously, indicating a growing sense of calm.",mc00,null
+mc00,mulitple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.",fi00,null
+fi00,fill_in,Dealing with the horse revealed my __________ leadership.,fi01,null
+fi01,fill_in,The principle I value most in leadership is ____________.,inst04,null
+inst04,Instruction,Note: this isn't about getting right and wrong answers or answering what you believe the company wants to see. ,fi02,null
+fi02,fill_in,I am ____________ when it comes to my feelings at work.,inst05,null
+inst05,Instruction,You've reached the end of this exercise. Click HERD TOOL to see your results!,re01,
+re01,result_page,,,
