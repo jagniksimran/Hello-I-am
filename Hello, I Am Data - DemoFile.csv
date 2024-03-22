@@ -2,10 +2,16 @@
 "inst01",instruction,"This is a game designed to support you and other executives on a journey of inclusion, diversity, and workplace community.","inst02",null
 "inst02",instruction,"To play, you'll be shown a prompt.This prompt will be one that you're going to select an answer choice or fill in the blank to complete the sentence. ","inst03",null
 "inst03",instruction,"Observe the horse’s behavior. The horse slowly stops pacing and begins to approach you, sniffing cautiously, indicating a growing sense of calm.","mc00",null
-"mc00",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi00",null
-"fi00",fill_in,"Dealing with the horse revealed my __________ leadership.","fi01",null
-"fi01",fill_in,"The principle I value most in leadership is ____________.","inst04",null
-"inst04",instruction,"Note: this isn't about getting right and wrong answers or answering what you believe the company wants to see. ","fi02",null
-"fi02",fill_in,"I am ____________ when it comes to my feelings at work.","inst05",null
+"mc00",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","mc01",null
+"mc01",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi00",null
+"fi00",fill_in,"Dealing with the horse revealed my __________ leadership.","mc02",null
+"mc02",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi01",null
+"fi01",fill_in,"The principle I value most in leadership is ____________.","mc03",null
+"mc03",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","inst04",null
+"inst04",instruction,"Note: this isn't about getting right and wrong answers or answering what you believe the company wants to see. ","mc04",null
+"mc04",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi02",null
+"fi02",fill_in,"I am ____________ when it comes to my feelings at work.","mc05",null
+"mc05",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi03",null
+"fi03",fill_in,"I am ____________ when it comes to my feelings at work.","inst05",null
 "inst05",instruction,"You've reached the end of this exercise. Click HERD TOOL to see your results!","re01",
 "re01",result_page,,,
