@@ -13,5 +13,20 @@
 "fi02",fill_in,"I am ____________ when it comes to my feelings at work.","mc05",null
 "mc05",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi03",null
 "fi03",fill_in,"I am ____________ when it comes to my feelings at work.","inst05",null
-"inst05",instruction,"You've reached the end of this exercise. Click HERD TOOL to see your results!","re01",
+"inst05",instruction,"Observe the horse’s behavior. The horse slowly stops pacing and begins to approach you, sniffing cautiously, indicating a growing sense of calm.","mc06",null
+"mc06",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi04",null
+"fi04",fill_in,"I am ____________ when it comes to my feelings at work.","mc07",null
+"mc07",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","inst06",null
+"inst06",instruction,"Observe the horse’s behavior. The horse slowly stops pacing and begins to approach you, sniffing cautiously, indicating a growing sense of calm.","fi05",null
+"fi05",fill_in,"I am ____________ when it comes to my feelings at work.","mc08",null
+"mc08",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","inst07",null
+"inst07",instruction,"Observe the horse’s behavior. The horse slowly stops pacing and begins to approach you, sniffing cautiously, indicating a growing sense of calm.","fi06",null
+"fi06",fill_in,"I am ____________ when it comes to my feelings at work.","mc09",null
+"mc09",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi07",null
+"fi07",fill_in,"I am ____________ when it comes to my feelings at work.","mc10",null
+"mc10",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi08",null
+"fi08",fill_in,"I am ____________ when it comes to my feelings at work.","mc11",null
+"mc11",multiple_choice,"Select your management style from the drop-down, and observe the impact of your decision on the horse's behavior.","fi09",null
+"fi09",fill_in,"I am ____________ when it comes to my feelings at work.","inst08",null
+"inst08",instruction,"You've reached the end of this exercise. Click HERD TOOL to see your results!","re01",
 "re01",result_page,,,
