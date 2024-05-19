@@ -4,5 +4,5 @@
 3,instruction,"Type 'observe report', to explore the report you will present in 5 minutes.",0,observe report,observe,1,"Yay, I used to have to jump when called upon. Its good not to be the new employee."
 4,instruction,"Looking for a solution? Type 'eat report' because, frankly, that report is only good if it comes straight from the horse's mouth.",0,eat report,eat,1,"Mmmm fiber, not as good as the apple you want. Get used to it."
 5,instruction,"It's time for a real challenge. Type 'turn right' to look back down the hallway.",0,turn right,right,1,"Back on Track? Ready to join the herd or take the lead?"
-6,instruction,"Let's do something bold. Type 'trot to the shiny object'.",0,sprint to the shiny object,sprint,1,"Looks like this is going to be a horse race. Saddle up!"
+6,instruction,"Let's do something bold. Type 'trot to the shiny object'.",0,trot to the shiny object,sprint,1,"Looks like this is going to be a horse race. Saddle up!"
 7,dialog,"Congratulations! You’ve successfully navigated 'The incluesion Protocol' tutorial. Remember, in this game, like in the office, sometimes you have to trot before you can gallop.",0,,,,
