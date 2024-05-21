@@ -1,5 +1,5 @@
-0,speaker,"Welcome to 'The Incluesion Protocol,' where we believe training should be fun. Click the NEXT button to continue.",3000,,,,
-1,speaker,"So let's horse around and learn how to do it.",3000,,,,
+0,speaker,"Welcome to 'The Incluesion Protocol,' where we believe training should be fun. Click the NEXT button to continue.",3,,,,
+1,speaker,"So let's horse around and learn how to do it.",3,,,,
 2,instruction,"Type 'walk forward' to put the horse through its paces. The laugh meter will light up when you type the directions accurately, otherwise try again.",0,walk forward,forward,1,"Look at you following directions,  I'll have to watch out for you."
 3,instruction,"Try 'turn left'. Because let's be honest, not everything is a straight line.",0,turn left,left,1,"Where are you going? Our supervisor is looking for you."
 4,instruction,"Type 'observe report', to explore the report you will present in 5 minutes.",0,observe report,observe,1,"Yay, I used to have to jump when called upon. Its good not to be the new employee."
